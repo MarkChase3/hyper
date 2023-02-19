@@ -7,6 +7,8 @@ The idea here is to jump from a game framewrok to a real engine with some really
 ## How?
 I am trying to implement everything in a jquery like way, where every function is concise and wraps lots of different things accordingly to the arguments
 For example, here's a game where you run from enemies infinitely:
+
+  ´´´´
   let scale = 2
   let x = 0, y = 0
   let enemies = []
@@ -29,18 +31,20 @@ For example, here's a game where you run from enemies infinitely:
       arr[i].y += dirY(el.x, el.y, x, y)
     })
   }
-  
+  ´´´´
   Considering a folder called assets with img.png, img2.png and list.txt including them.
   
 ## Assets
 For now, hyper just loads .png and .json files, but it loads all listed in assets/list.txt.
 
 For example:
-
+  
+  ´´´´
   img.png
   img2.png
   map.json
-  
+  ´´´´
+
 ## Cheatset
 
 Action | Code
