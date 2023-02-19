@@ -47,4 +47,4 @@ For example:
   ````
 
 ## Cheatset
-[Here]<htmlpreview.github.io/?https://github.com/MarkChase3/hyper/edit/main/README.md>
+[Here](htmlpreview.github.io/?https://github.com/MarkChase3/hyper/blob/main/cheatset.html)
