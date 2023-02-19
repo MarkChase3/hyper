@@ -47,8 +47,4 @@ For example:
   ````
 
 ## Cheatset
-
-Action | Code
--|-
-Draw image on the screen|draw(pathToImage)
-Draw image on X and Y|draw(pathToImage, x, y)
+[Here]<htmlpreview.github.io/?https://github.com/MarkChase3/hyper/edit/main/README.md>
