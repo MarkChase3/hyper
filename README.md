@@ -46,5 +46,5 @@ For example:
   map.json
   ````
 
-## Cheatset
-Here:  htmlpreview.github.io/?https://github.com/MarkChase3/hyper/blob/main/cheatset.html
+## Docs
+Look at the wiki
