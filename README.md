@@ -32,6 +32,7 @@ For example, here's a game where you run from enemies infinitely:
     })
   }
   ````
+  
   Considering a folder called assets with img.png, img2.png and list.txt including them.
   
 ## Assets
